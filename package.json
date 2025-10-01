@@ -1,5 +1,5 @@
 {
-	"name": "reverentgeek",
+	"name": "tedneward",
 	"version": "3.0.0",
 	"description": "My personal calling card.",
 	"main": "./bin/card.js",
@@ -11,15 +11,15 @@
 		"lint": "eslint bin/*.js art/*.js"
 	},
 	"keywords": [
-		"David",
-		"Neal",
-		"reverentgeek"
+		"Ted",
+		"Neward",
+		"tedneward"
 	],
-	"author": "David Neal <david@reverentgeek.com> (https://reverentgeek.com)",
+	"author": "Ted Neward <ted.neward@newardassociates.com> (https://newardassociates.com)",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/reverentgeek/reverentgeek-card.git"
+		"url": "https://github.com/tedneward/tedneward-card.git"
 	},
 	"dependencies": {
 		"boxen": "^8.0.1",
