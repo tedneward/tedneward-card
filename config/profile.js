@@ -1,21 +1,21 @@
-export const artOrder = [ "avatar", "banner" ];
+export const artOrder = [ 
+//	"avatar", 
+	"banner"
+];
 
 export const profile = {
-	name: "DAVID NEAL",
-	handle: "reverentgeek",
-	bio: "David is a family man, geek, musician, illustrator, speaker, software developer, and Microsoft MVP living in North GA. He runs on a high-octane mixture of caffeine and JavaScript, and is entirely made of bacon.",
+	name: "Ted Neward",
+	handle: "tedneward",
+	bio: "Ted is a prolific speaker, author, engineering manager, and software architect with over 30 years of experience in the industry. He teaches part-time at University of Washington, Seattle, has served on several Java JSRs, been a Microsoft MVP, and currently sits on the WebAssembly Working Group. He resides in the Pacific Northwest with his wife, two cats, eleven mobile devices, eight laptops, and a hefty utility bill.",
 	infoSections: [
-		{ label: "Work", value: [ "Developer Relations Engineer", "https://plaid.com" ], style: "gradient", leadingNewline: true },
-		{ label: "Handle", value: "reverentgeek", style: "yellow" },
-		{ label: "Portfolio", value: "https://reverentgeek.com", style: "yellow" },
-		{ label: "Email", value: "david@reverentgeek.com", style: "yellow" },
-		{ label: "LinkedIn", value: "https://linkedin.com/in/davidneal", style: "yellow" },
-		{ label: "GitHub", value: "https://github.com/reverentgeek", style: "yellow" },
-		{ label: "Instagram", value: "https://instagram.com/reverentgeek", style: "yellow" },
-		{ label: "Mastodon", value: "@reverentgeek@reverentgeek.com", style: "yellow" },
-		{ label: "BlueSky", value: "@reverentgeek.com", style: "yellow" },
-		{ label: "Threads", value: "@reverentgeek", style: "yellow" },
-		{ label: "X", value: "https://x.com/reverentgeek", style: "yellow" },
-		{ label: "Card", value: "npx reverentgeek", style: "orange", leadingNewline: true }
+		{ label: "Work", value: [ "Senior Distinguished Engineer", "https://capitalone.com" ], style: "gradient", leadingNewline: true },
+		{ label: "Work", value: [ "Speaker, Author, Consultant, Architect", "https://newardassociates.com" ], style: "gradient", leadingNewline: true },
+		{ label: "Handle", value: "tedneward", style: "yellow" },
+		{ label: "Portfolio", value: "https://newardassociates.com", style: "yellow" },
+		{ label: "Email", value: "ted@newardassociates.com", style: "yellow" },
+		{ label: "LinkedIn", value: "https://linkedin.com/in/tedneward", style: "yellow" },
+		{ label: "GitHub", value: "https://github.com/tedneward", style: "yellow" },
+		{ label: "BlueSky", value: "@tedneward.com", style: "yellow" },
+		{ label: "Card", value: "npx tedneward", style: "orange", leadingNewline: true }
 	]
 };

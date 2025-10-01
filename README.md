@@ -1,11 +1,11 @@
-# ReverentGeek Calling Card
+# TedNeward Calling Card
 
 In case you ever need my information and all you have is a terminal and `npm`.
 
 ## Usage
 
 ```bash
-npx reverentgeek
+npx tedneward
 ```
 
 ## Make It Yours
